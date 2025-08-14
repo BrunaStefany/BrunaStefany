@@ -32,7 +32,7 @@
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-brozzi/)
-[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunastefany932@gmail.com)
 
 ---
 ✨ *"Dados sem ação são apenas números. Meu objetivo é transformá-los em decisões inteligentes."*
