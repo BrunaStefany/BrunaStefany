@@ -20,11 +20,12 @@
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
   <div style="display: inline_block"><br>
-  img
-
 </div>
 
-  
+  <div align="center">
+  <img src="https://github.com/BrunaStefany/BrunaStefany/blob/main/download20250804190113.png?raw=true" width="250">
+</div>
+
 ---
 
 ## 📈 Estatísticas do GitHub
