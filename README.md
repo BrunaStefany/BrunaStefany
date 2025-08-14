@@ -39,5 +39,6 @@
 
 ---
 ✨ *"Dados sem ação são apenas números. Meu objetivo é transformá-los em decisões inteligentes."*
-![Snake animation](https://github.com/BrunaStefany/BrunaStefany/blob/output/github-contribution-grid-snake.svg)
-
+<div aling=center>
+<img src="https://raw.githubusercontent.com/BrunaStefany/BrunaStefany/output/snake.svg" alt="Snake animation" />
+<div/>
