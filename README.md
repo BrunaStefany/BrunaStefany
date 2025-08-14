@@ -9,9 +9,7 @@
 - 📚 Estudando também **Power Apps, Power Automate e SharePoint**  
 - 💼 Buscando oportunidades como **Cientista de Dados Jr** ou **Analista de Dados**  
 - 🌱 Sempre aprendendo e compartilhando conhecimento
-
 ---
-
 ## 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -20,11 +18,7 @@
   <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
   <div style="display: inline_block"><br>
 </div>
-
-  <div align="center">
-  <img src="https://github.com/BrunaStefany/BrunaStefany/blob/main/download20250804190113.png?raw=true" width="250">
-</div>
-
+  
 ---
 
 ## 📈 Estatísticas do GitHub
@@ -32,6 +26,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaStefany&layout=compact&theme=cobalt)
 
 ---
+<div align="center">
+  <img src="https://github.com/BrunaStefany/BrunaStefany/blob/main/download20250804190113.png?raw=true" width="250">
+</div>
+
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-brozzi/)
