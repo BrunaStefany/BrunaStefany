@@ -3,7 +3,6 @@
 💡 Apaixonada por **Dados, Tecnologia e Automação**, sempre buscando transformar informações em soluções inteligentes.  
 🚀 Em transição para **Ciência de Dados**, com foco em aplicar **projetos práticos** que gerem impacto real.
 
----
 
 ## 📊 Sobre mim
 - 🎯 Atualmente aprofundando conhecimentos em **Python, SQL, Machine Learning e Power BI**  
