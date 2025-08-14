@@ -14,16 +14,22 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-<div style="display:inline_block"><br>
-<i class="devicon-html5-plain-wordmark colored"></i>
-<i class="devicon-azuresqldatabase-plain"></i>
-<i class="devicon-amazonwebservices-plain-wordmark"></i>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
+  <div style="display: inline_block"><br>
+  img
 
+</div>
+
+  
 ---
 
 ## 📈 Estatísticas do GitHub
-![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaStefany&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaStefany&layout=compact&theme=dark)
+![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaStefany&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaStefany&layout=compact&theme=cobalt)
 
 ---
 
