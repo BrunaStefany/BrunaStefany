@@ -38,7 +38,8 @@
 [![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunastefany932@gmail.com)
 
 ---
-✨ *"Dados sem ação são apenas números. Meu objetivo é transformá-los em decisões inteligentes."*
 <div aling=center>
 <img src="https://raw.githubusercontent.com/BrunaStefany/BrunaStefany/output/snake.svg" alt="Snake animation" />
 <div/>
+
+✨ *"Dados sem ação são apenas números. Meu objetivo é transformá-los em decisões inteligentes."*
