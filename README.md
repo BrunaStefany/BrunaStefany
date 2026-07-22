@@ -12,7 +12,7 @@ Espero que gostem de estar aqui. :)
 
 <!-- SEÇÃO DE CONTATO NO LUGAR DAS IMAGENS QUEBRADAS -->
 <div align="left">
-  <a href="https://github.com/BrunaStefany" target="_blank">
+  <a href="https://github.com/BrunaStefany](https://github.com/BrunaStefany" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
 </div>
