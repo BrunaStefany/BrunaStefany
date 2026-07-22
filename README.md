@@ -11,9 +11,9 @@ Espero que gostem de estar aqui. :)
 <br>
 
 <!-- SEÇÃO DE CONTATO NO LUGAR DAS IMAGENS QUEBRADAS -->
-<div align="center">
+<div align="left">
   <a href="https://github.com/BrunaStefany" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Minha%20Jornada-black?style=for-the-badge&logo=github&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
 </div>
 
@@ -44,6 +44,5 @@ Espero que gostem de estar aqui. :)
 #### ✍🏻 Me encontre aqui:
 
 <div>
-  <a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bruna-brozzi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
