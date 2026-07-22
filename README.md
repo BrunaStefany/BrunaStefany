@@ -1,43 +1,46 @@
-# 👋 Olá! Eu sou a Bruna Stefany
+### Ei, você! Eu sou a Bruna! 👋
+#### Boas-vindas!
 
-💡 Apaixonada por **Dados, Tecnologia e Automação**, sempre buscando transformar informações em soluções inteligentes.  
-🚀 Em transição para **Ciência de Dados**, com foco em aplicar **projetos práticos** que gerem impacto real.
+👩🏻‍💻 Estudo Engenharia de Produção e estou direcionando minha carreira com foco total para o desenvolvimento de software. Atualmente sou estagiária na Nestlé. <br>
+👩🏻‍🚀 Adoro aprender, sou uma pessoa muito interessada, dedicada e curiosa. Sou apaixonada por resolução de problemas e gosto muito de entender como todos os tipos de coisas funcionam. E sou muito empolgada com a tecnologia, porque amo estudar, mas, acima de tudo, amo colocar o que aprendi em prática. :)
+ 
+#### É importante...
+...contar a vocês que aqui no meu GitHub estou documentando o meu processo de evolução. <br>
+Espero que gostem de estar aqui. :)
 
-
-## 📊 Sobre mim
-- 🎯 Atualmente aprofundando conhecimentos em **Python, SQL, Machine Learning e Power BI**  
-- 📚 Estudando também **Power Apps, Power Automate e SharePoint**  
-- 💼 Buscando oportunidades como **Cientista de Dados Jr** ou **Analista de Dados**  
-- 🌱 Sempre aprendendo e compartilhando conhecimento
----
-## 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
-  <div style="display: inline_block"><br>
+<div>
+  <a href="https://github.com/BrunaStefany?" target="_blank">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
   
----
+  #### &#128295; Tecnologias:
+  - BackEnd:<br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  
+  - FrontEnd:<br>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-## 📈 Estatísticas do GitHub
-![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaStefany&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaStefany&layout=compact&theme=cobalt)
+  - Bancos de Dados:<br>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
----
-<div align="center">
-  <img src="https://github.com/BrunaStefany/BrunaStefany/blob/main/download20250804190113.png?raw=true" width="250">
-</div>
+ - Mensageria:<br>
+ <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+   
+  - Cloud:<br>
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+  
+  - Controle de Versão:<br>
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
+  - IDEs:<br>
+   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  
 
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-brozzi/)
-[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunastefany932@gmail.com)
-
----
-<div aling=center>
-<img src="https://raw.githubusercontent.com/BrunaStefany/BrunaStefany/output/snake.svg" alt="Snake animation" />
-<div/>
-
-✨ *"Dados sem ação são apenas números. Meu objetivo é transformá-los em decisões inteligentes."*
+  #### ✍🏻 Me encontre aqui:
+  
+  <div>
+    <a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </div>
