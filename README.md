@@ -1,8 +1,8 @@
 ### Ei, você! Eu sou a Bruna! 👋
 #### Boas-vindas!
 
-👩🏻‍💻 Estudo Engenharia de Produção e estou direcionando minha carreira com foco total para o desenvolvimento de software. Atualmente sou estagiária na Nestlé. <br>
-👩🏻‍🚀 Adoro aprender, sou uma pessoa muito interessada, dedicada e curiosa. Sou apaixonada por resolução de problemas e gosto muito de entender como todos os tipos de coisas funcionam. E sou muito empolgada com a tecnologia, porque amo estudar, mas, acima de tudo, amo colocar o que aprendi em prática. :)
+👩🏻‍💻Sou formada em Engenharia de Produção e em 2024 fiz uma transição de carreira para a área de TI. Atualmente sou estagiária na Nestlé. <br>
+👩🏻‍🚀 Adoro aprender, sou uma pessoa muito interessada, dedicada e curiosa. Sou apaixonada por resolução de problemas e gosto muito de entender como todos os tipos de coisas funcionam. E sou muito empolgada com a tecnologia, porque amo estudar, mas, acima de tudo, amo colocar o que aprendi em prática. :)<br>
  
 #### É importante...
 ...contar a vocês que aqui no meu GitHub estou documentando o meu processo de evolução. <br>
